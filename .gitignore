@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Data — exclude large or sensitive files
+# (keeping CSVs since they're core to the project)
+
+# OS
+.DS_Store
+Thumbs.db
