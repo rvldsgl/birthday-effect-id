@@ -5,7 +5,7 @@
 # Query: All notable Indonesians with known birth date + death date
 #
 # Run: python scraper.py
-# Output: data/indonesian_deaths_raw.csv
+
 
 import requests
 import pandas as pd
